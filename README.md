@@ -2,28 +2,28 @@
 
 A machine learning-based movie recommendation system built using Streamlit.
 
-## 🚀 Features
+##  Features
 
 * Recommend similar movies
 * Interactive UI using Streamlit
 * Uses cosine similarity
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
 * Scikit-learn
 * Streamlit
 
-## ▶️ Run Locally
+##  Run Locally
 
 pip install -r requirements.txt
 streamlit run app/app.py
 
-## 📸 Output
+##  Output
 
 (Add your screenshot from assets folder)
 
-## ⚠️ Note
+##  Note
 
 Model `.pkl` files are not included due to size.
