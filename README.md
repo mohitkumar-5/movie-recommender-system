@@ -20,7 +20,6 @@ A machine learning-based movie recommendation system built using Streamlit.
 pip install -r requirements.txt
 streamlit run app/app.py
 
-##  Output
 
 <h2>Output</h2>
 
