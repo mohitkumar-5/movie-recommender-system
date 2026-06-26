@@ -22,7 +22,11 @@ streamlit run app/app.py
 
 ##  Output
 
-(Add your screenshot from assets folder)
+<h2>Output</h2>
+
+<p align="center">
+  <img src="assets/movierecommendationoutput.png" width="800">
+</p>
 
 ##  Note
 
